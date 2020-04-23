@@ -1,4 +1,4 @@
-SERVER = '120.27.211.191'
+SERVER = '172.17.0.1'
 TOPIC = 'test1'
 USERNAME = ''
 PASSWORD = ''
